@@ -1,0 +1,12 @@
+target/
+*.class
+src/main/resources/application-local.properties
+src/main/java/frontend/production-optimizer-frontend/node_modules/
+src/main/java/frontend/production-optimizer-frontend/dist/
+src/main/java/frontend/production-optimizer-frontend/.env.development
+.idea/
+*.iml
+nbproject/private/
+nb-configuration.xml
+.DS_Store
+Thumbs.db
